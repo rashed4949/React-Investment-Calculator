@@ -13,7 +13,7 @@ export default function Results({ input }) {
         <tr>
           <td>Year</td>
           <td>Investment Value</td>
-          <td>Interest (year)</td>
+          <td>Interest (Per Year)</td>
           <td>Total Interest</td>
           <td>Invested Capital</td>
         </tr>
